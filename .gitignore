@@ -5,7 +5,6 @@ venv/
 .idea/
 .vscode/   
 
-*.db
 env/
 .env
 .env.local
